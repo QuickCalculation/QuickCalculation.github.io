@@ -13,7 +13,7 @@
     {
       "id": "stability",
       "name": "稳定性",
-      "time": 1.5
+      "canEdit": true
     },
     {
       "id": "hardware",
