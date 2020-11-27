@@ -14,6 +14,21 @@
         "gateway",
         "sence"
       ]
+    },
+    {
+      "name": "酒店",
+      "categories": [
+        "sence",
+        "ipc",
+        "gateway"
+      ]
+    },
+    {
+      "name": "扫地机",
+      "categories": [
+        "ipc",
+        "gateway"
+      ]
     }
   ],
   "b2Param": 0.5,
