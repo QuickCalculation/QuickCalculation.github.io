@@ -1,0 +1,20 @@
+{
+  "business": [
+    {
+      "name": "安防",
+      "categories": [
+        "sence",
+        "ipc"
+      ]
+    },
+    {
+      "name": "家电",
+      "categories": [
+        "gateway",
+        "sence"
+      ]
+    }
+  ],
+  "b2Param": 0.5,
+  "b3Param": 0.8
+}

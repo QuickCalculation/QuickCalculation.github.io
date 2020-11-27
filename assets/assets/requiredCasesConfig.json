@@ -1,0 +1,70 @@
+{
+  "category": [
+    {
+      "id": "sence",
+      "name": "传感",
+      "cases": [
+        {
+          "name": "弱电类",
+          "time": 1.5
+        },
+        {
+          "name": "强电类",
+          "time": 1.5
+        },
+        {
+          "name": "气象站",
+          "time": 2.0
+        },
+        {
+          "name": "告警主机(433)",
+          "time": 1.5
+        }
+      ],
+      "optionCases": [
+        "testDesign",
+        "power"
+      ]
+    },
+    {
+      "id": "ipc",
+      "name": "IPC",
+      "cases": [
+        {
+          "name": "IPC",
+          "time": 1.5
+        },
+        {
+          "name": "低功耗-IPC",
+          "time": 1.5
+        },
+        {
+          "name": "NVR",
+          "time": 2.0
+        }
+      ],
+      "optionCases": [
+        "stability",
+        "hardware"
+      ]
+    },
+    {
+      "id": "gateway",
+      "name": "网关",
+      "cases": [
+        {
+          "name": "定制网关",
+          "time": 1.5
+        },
+        {
+          "name": "复合型网关",
+          "time": 1.5
+        }
+      ],
+      "optionCases": [
+        "stability",
+        "hardware"
+      ]
+    }
+  ]
+}

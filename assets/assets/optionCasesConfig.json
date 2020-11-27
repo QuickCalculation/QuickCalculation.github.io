@@ -1,0 +1,39 @@
+{
+  "optionCases": [
+    {
+      "id": "testDesign",
+      "name": "测试设计",
+      "canEdit": true
+    },
+    {
+      "id": "power",
+      "name": "整机功耗",
+      "time": 1.5
+    },
+    {
+      "id": "stability",
+      "name": "稳定性",
+      "time": 1.5
+    },
+    {
+      "id": "hardware",
+      "name": "硬件",
+      "canEdit": true
+    },
+    {
+      "id": "distance",
+      "name": "拉距",
+      "time": 2.5
+    },
+    {
+      "id": "factory",
+      "name": "产测",
+      "canEdit": true
+    },
+    {
+      "id": "compatilbe",
+      "name": "兼容性",
+      "canEdit": true
+    }
+  ]
+}
