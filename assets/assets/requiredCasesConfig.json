@@ -23,7 +23,8 @@
       ],
       "optionCases": [
         "testDesign",
-        "power"
+        "power",
+        "stability"
       ]
     },
     {
